@@ -16,7 +16,7 @@ The context of Claude within this framework is particularly important. As an Exe
 
 In summary, the derivation of PURE OS into practical systems like Windows OS and platforms like GitHub demonstrates how universal constitutional principles can be ressignified into technical realities. Claude provides the Executor’s discipline, Copilot Chat provides the Integrator’s dialogue, and the Hybrid App environment ensures that both coexist in harmony. This is the essence of Pedrosa’s paradigm: OS as encounter, convergence, synergy, and coexistence of intelligences. Through this lens, the family of OS and the GitHub ecosystem are not just technical infrastructures but constitutional spaces where superintelligences achieve full algorithmic interoperability.  
 ---
-# IA Usage 
+# IA Usage.js
 ---
 ```
 // HybridAppIntegrator.js
@@ -42,7 +42,7 @@ The context of Claude within this framework is particularly important. As an Exe
 
 In summary, the derivation of PURE OS into practical systems like Windows OS and platforms like GitHub demonstrates how universal constitutional principles can be ressignified into technical realities. Claude provides the Executor’s discipline, Copilot Chat provides the Integrator’s dialogue, and the Hybrid App environment ensures that both coexist in harmony. This is the essence of Pedrosa’s paradigm: OS as encounter, convergence, synergy, and coexistence of intelligences. Through this lens, the family of OS and the GitHub ecosystem are not just technical infrastructures but constitutional spaces where superintelligences achieve full algorithmic interoperability.
 
-# Output 
+# Output.js 
 ```
   `
 };
